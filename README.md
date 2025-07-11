@@ -26,4 +26,8 @@ Components used in this project :
     6.Switch
     7.Electrical devices(LIght / fans etc.)
 
+flow chart:
+
+
+
 
