@@ -17,12 +17,13 @@ The goals of this project are:
 
 
 Components used in this project :
- 1.Arduino Leonardo
- 2.Bluetooth Module(HC 05)
- 3.Relay
- 4.cables
- 5.PCB and Breadboards
- 6.Switch
- 7.Electrical devices(LIght / fans etc.)
+
+    1.Arduino Leonardo
+    2.Bluetooth Module(HC 05)
+    3.Relay
+    4.cables
+    5.PCB and Breadboards
+    6.Switch
+    7.Electrical devices(LIght / fans etc.)
 
 
