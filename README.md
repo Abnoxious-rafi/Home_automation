@@ -27,6 +27,7 @@ Components used in this project :
     7.Electrical devices(LIght / fans etc.)
 
 flow chart:
+
 ![image alt](https://github.com/Abnoxious-rafi/Home_automation/blob/main/extra/Screenshot%202025-07-12%20052956.png?raw=true)
 
 
