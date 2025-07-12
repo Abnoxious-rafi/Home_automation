@@ -41,3 +41,7 @@ Trips:
     3.We can use cheaper components for cost cutting.
     4.Anyone can use pre-build blutooth controller in play store or make their own app to accss remotely.
     5.We used difference of starting time and present time to detect if the time is over for a device to turn off or not
+
+#Circuit:
+
+![image alt](extra/Screenshot 2025-07-12 223334.png)
