@@ -1,31 +1,34 @@
-#Home Automation
+# 🏠 Home Automation
 
-This project is designed to facilitate the control of home electronic and electrical systems in a more convenient and efficient manner. 
-It enables users to manage various devices using a mobile phone.
+This project is designed to facilitate the control of home electronic and electrical systems in a more convenient and efficient manner. It enables users to manage various devices using a mobile phone via Bluetooth.
 
-This project is based on arduino.the code is given in (.ino) format.
+This project is built using **Arduino**, and the code is provided in `.ino` format.
 
+## 🎯 Project Goals
 
+1. 💰 Minimize operating costs (around **$15**)
+2. 🛋️ Improve comfort
+3. 📈 Optimize inhabitant productivity
+4. 🔐 Ensure security
+5. 🤖 Simplify the use of modern technologies
 
-The goals of this project are:
+## 🔧 Components Used
 
-    1.Minimize operating costs (around 15$)
-    2.Improve comfort
-    3.Optimize inhabitant productivity
-    4.Ensure security
-    5.Simplify use the technologies
+1. **Arduino Leonardo**  
+2. **Bluetooth Module (HC-05)**  
+3. **Relay Module**  
+4. **Cables & Connectors**  
+5. **PCB and Breadboards**  
+6. **Switches**  
+7. **Electrical Devices** (e.g., lights, fans)  
+8. **PIR Sensor** (Motion sensor)  
 
+## 📂 Code
 
-Components used in this project :
+- The Arduino source code is available in `.ino` format.
 
-    1.Arduino Leonardo
-    2.Bluetooth Module(HC 05)
-    3.Relay
-    4.cables
-    5.PCB and Breadboards
-    6.Switch
-    7.Electrical devices(LIght / fans etc.)
-    8.PIR sensor (Motion sensor)
+---
+
 
 flow chart:
 
