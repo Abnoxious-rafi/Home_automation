@@ -44,4 +44,4 @@ Trips:
 
 #Circuit:
 
-![image alt](extra/Screenshot 2025-07-12 223334.png)
+![image alt](https://github.com/Abnoxious-rafi/Home_automation/blob/0ef5e4b73ffe6e7d1f7a902192ccc0b38834d72c/extra/Screenshot%202025-07-12%20223334.png)
